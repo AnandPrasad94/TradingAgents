@@ -1,3 +1,25 @@
-# The dependencies are declared in pyproject.toml. From the repository root this
-# installs TradingAgents with them, the same as `pip install .`
+# Azure Functions Python Worker Runtime dependencies
+azure-functions>=1.18.0
+pydantic>=2.0.0
+
+# Core TradingAgents Framework Dependencies
+langchain-core>=1.6.5
+langchain-anthropic>=1.7.4
+langchain-google-genai>=4.4.0
+langchain-openai>=1.6.6
+langgraph>=1.2.12
+langgraph-checkpoint-sqlite>=3.1.1
+markdown-it-py>=4.0
+pandas>=2.2.0
+python-dotenv>=1.0.0
+pytz>=2024.1
+questionary>=2.1.0
+requests>=2.31.0
+rich>=13.0.0
+typer>=0.12.0
+stockstats>=0.6.5
+typing-extensions>=4.10.0
+yfinance>=1.7.0
+
+# Install repository root package
 .

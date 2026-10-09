@@ -57,9 +57,11 @@ Full release notes are in [CHANGELOG.md](CHANGELOG.md).
 
 <div align="center">
 
-🚀 [TradingAgents](#tradingagents-framework) | ⚡ [Installation & CLI](#installation-and-cli) | 🎬 [Demo](https://www.youtube.com/watch?v=90gr5lwjIho) | 📦 [Package Usage](#tradingagents-package) | 🤝 [Contributing](#contributing) | 📄 [Citation](#citation)
+🚀 [TradingAgents](#tradingagents-framework) | ⚡ [Installation & CLI](#installation-and-cli) | 🌐 [Azure Functions API](#tradingagentsapi-azure-functions) | 🎬 [Demo](https://www.youtube.com/watch?v=90gr5lwjIho) | 📦 [Package Usage](#tradingagents-package) | 🤝 [Contributing](#contributing) | 📄 [Citation](#citation)
 
 </div>
+
+> ☁️ **TradingAgentsAPI (Azure Functions v2)** is now integrated! Deploy as serverless REST endpoints with one click via GitHub Actions or Azure CLI. See [AZURE_DEPLOYMENT.md](AZURE_DEPLOYMENT.md).
 
 > 🎉 **TradingAgents** officially released! We have received numerous inquiries about the work, and we would like to express our thanks for the enthusiasm in our community.
 >
